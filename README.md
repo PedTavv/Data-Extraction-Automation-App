@@ -17,17 +17,10 @@ This project was undertaken as a personal initiative, driven by my curiosity and
 - Includes error handling and data integrity checks
 
 ## Impact
-- Increases efficiency and accuracy in medical record processing
-- Potentially saves significant time for healthcare professionals
-- Reduces the risk of data entry errors
+- Increases efficiency and accuracy in medical record processing for research purposes.
+- Reduces the risk of data entry error.
 
 
-## Ethical Considerations
-It's important to note that this project was developed purely as a proof of concept and learning exercise. No real patient data was used in the development or testing of this tool. All data used was entirely fictional, created solely for the purpose of demonstrating the tool's capabilities while maintaining the highest standards of medical data privacy and ethics.
-
-
-
-
-![Medical Data Automation Tool Interface](medical_data_tool_interface.png)
+(medical_data_tool_interface.png)
 
 
