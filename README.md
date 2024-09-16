@@ -17,6 +17,16 @@ This project was undertaken as a personal initiative, driven by my curiosity and
 - Includes error handling and data integrity checks
 - Core code is customizable for various research studies and needs
 
+## Core Components
+
+The `init.lua` script serves as the central configuration file for the tool. It sets up the environment, initializes variables, and manages the activation of different automation scripts (`barrets`, `polyps`, and `polypjson`). Key functionalities include:
+
+- Activating and deactivating scripts through the menu bar
+- Emergency stop functionality to terminate all running scripts
+- Error logging to track issues during script execution
+- Binding hotkeys for quick access to different scripts
+
+
 ## Impact
 - Increases efficiency and accuracy in medical record processing for research purposes
 - Reduces the risk of data entry errors
