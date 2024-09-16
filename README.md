@@ -1,7 +1,7 @@
 # Data Automation Tool 
 
 ## Personal Initiative
-This project was undertaken as a personal initiative, driven by my curiosity and passion for exploring the intersection of technology and healthcare. It has been in development for the past year, focusing on automating data extraction and entry for research purposes, improving efficiency and accuracy. 
+This project was undertaken as a personal initiative, driven by my curiosity and passion for exploring the intersection of technology and healthcare. It has been in development and utilized over the past year, focusing on automating data extraction and entry for research purposes, improving efficiency and accuracy. 
 
 ## Disclaimer
 Please note that this tool is not intended for public use. This upload is meant to show a proof of concept. The actual code used for my research may differ and has been utilized in a controlled environment to ensure compliance with data privacy and research protocols.
