@@ -5,7 +5,6 @@ This project was undertaken as a personal initiative, driven by my curiosity and
 
 ## Key Features
 - Automates data extraction and entry
-- Manages patient records efficiently
 - Implements data validation and duplicate checking
 - Provides a user interface for easy data visualization and management
 - Utilizes hotkeys for quick actions
