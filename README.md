@@ -1,7 +1,7 @@
 # Medical Data Automation Tool
 
 ## Personal Initiative
-This project was undertaken as a personal initiative, driven by my curiosity and passion for exploring the intersection of technology and healthcare. It was developed entirely in my free time, showcasing my self-motivation and dedication to learning new skills that could potentially benefit the medical field. While not affiliated with any official organization, this project represents my proactive approach to understanding and addressing real-world challenges in healthcare data management.
+This project was undertaken as a personal initiative, driven by my curiosity and passion for exploring the intersection of technology and healthcare. It was developed entirely in my free time, showcasing my self-motivation and dedication to learning new skills that could potentially help with research.
 
 ## Key Features
 - Automates data extraction and entry
