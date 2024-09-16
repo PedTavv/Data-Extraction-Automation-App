@@ -1,7 +1,8 @@
 # Medical Data Automation Tool
 
 ## Personal Initiative
-This project was undertaken as a personal initiative, driven by my curiosity and passion for exploring the intersection of technology and healthcare. It aims to automate data extraction and entry for medical records, improving efficiency and accuracy.
+
+This project was undertaken as a personal initiative, driven by my curiosity and passion for exploring the intersection of technology and healthcare. It has been in development for the past year, with a focus on automating data extraction and entry for medical records, improving efficiency and accuracy. Please note that this tool is not intended for public use.
 
 ## Key Features
 - Automates data extraction and entry
