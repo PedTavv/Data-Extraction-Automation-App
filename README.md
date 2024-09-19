@@ -47,4 +47,4 @@ Below are some screenshots of the tool in action:
 ![Polyp Counter UI](polyp_counter.png)
 
 ### Barrett's Automation Script UI
-![Barrett's UI](BarrretsUI.png)
+![Barrett's UI](Barrrets Script UI.png)
