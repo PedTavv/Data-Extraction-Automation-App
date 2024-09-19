@@ -128,8 +128,6 @@ function updateMenuBar()
         title = "🟢 " .. title
     elseif activeScript == "polyps" then
         title = "🔴 " .. title
-    elseif activeScript == "polypjson" then
-        title = "🟠 " .. title
     end
     menuBar:setTitle(title)
 end
