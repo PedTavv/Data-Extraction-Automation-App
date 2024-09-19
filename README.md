@@ -41,7 +41,7 @@ The `init.lua` script serves as the central configuration file for the tool. It 
 Below are some screenshots of the tool in action:
 
 ### Polyps Automation Script UI
-![Main Interface](medical_data_tool_interface.png)
+![Main Interface](polyps_script_interface.png)
 
 ### Polyp Counter UI
 ![Polyp Counter UI](polyp_counter.png)
