@@ -39,11 +39,11 @@ The `init.lua` script serves as the central configuration file for the tool. It 
 ## User Interface
 Below are some screenshots of the tool in action:
 
-### Polyp UI
+### PolypDData Script UI
 ![Main Interface](medical_data_tool_interface.png)
 
 ### Polyp Counter UI
 ![Polyp Counter UI](polyp_counter.png)
 
-### Barrett's UI
+### Barrett's Script UI
 ![Barrett's UI](BarrretsUI.png)
